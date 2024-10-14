@@ -1,6 +1,6 @@
 # 🌍 Desafio Prático - Local Turístico
 
-Este repositório contém o projeto **"Local Turístico"**, uma página web desktop que apresenta informações detalhadas sobre um destino turístico incrível. 
+Este repositório contém o projeto **"Local Turístico"**, uma página web desktop que apresenta informações detalhadas sobre um destino turístico incrível.
 
 Este projeto faz parte dos desafios práticos da **Formação Fullstack**, e foi desenvolvido com o objetivo de aplicar conhecimentos em **HTML** e **CSS** na criação de uma interface visualmente atrativa e funcional.
 
